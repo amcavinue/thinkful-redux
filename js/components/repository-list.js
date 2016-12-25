@@ -35,4 +35,4 @@ var mapStateToProps = function(state, props) {
 
 var Container = connect(mapStateToProps)(RepositoryList);
 
-module.exports = RepositoryList;
+module.exports = Container;

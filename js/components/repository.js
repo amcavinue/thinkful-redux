@@ -24,4 +24,4 @@ var Repository = React.createClass({
 
 var Container = connect()(Repository);
 
-module.exports = Repository;
+module.exports = Container;

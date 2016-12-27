@@ -20,7 +20,7 @@ var RepositoryList = React.createClass({
                 {repositories}
                 <input type="text" ref="repositoryName" />
                 <button type="button" onClick={this.addRepository}>
-                    Add repository
+                    Add repositoryf
                 </button>
             </div>
         );
